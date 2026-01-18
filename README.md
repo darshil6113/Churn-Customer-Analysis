@@ -140,7 +140,8 @@ The Power BI dashboard provides:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here for better presentation.
+<img width="1417" height="799" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/1acf2858-3248-4859-82fe-aa11a94c6a98" />
+
 
 ---
 
@@ -163,8 +164,8 @@ Contributions, suggestions, and improvements are welcome!
 
 If you have any questions or feedback:
 
-* GitHub: [yourusername]
-* LinkedIn: [your-linkedin-profile]
+* GitHub: darshil6113
+* LinkedIn: 
 
 ---
 
