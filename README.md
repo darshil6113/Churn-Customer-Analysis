@@ -139,6 +139,11 @@ The Power BI dashboard provides:
 ---
 
 ## 📸 Dashboard Preview
+1. Summary Dashboard
+
+<img width="1439" height="803" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/a0ce348c-8efa-4f1d-9631-960b4f1f1c26" />
+
+2. Churn Prediction Dashboard
 
 <img width="1417" height="799" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/1acf2858-3248-4859-82fe-aa11a94c6a98" />
 
