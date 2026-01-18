@@ -26,7 +26,7 @@ The project includes:
 Churn-Customer-Analysis/
 │
 ├── notebooks/
-│   └── Churn_Analysis ML.ipynb        # Jupyter Notebook (EDA + ML)
+│   └── Churn_Analysis_ML.ipynb        # Jupyter Notebook (EDA + ML)
 │
 ├── powerbi/
 │   └── Churn_dashboard.pbix        # Power BI Dashboard
@@ -125,13 +125,13 @@ The Power BI dashboard provides:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/Churn-Customer-Analysis.git
+   git clone https://github.com/darshil6113/Churn-Customer-Analysis.git
    ```
 
 2. Open the Jupyter Notebook
 
    ```bash
-   jupyter notebook churn_analysis.ipynb
+   jupyter notebook Churn_Analysis_ML.ipynb
    ```
 
 3. Open the Power BI file (`.pbix`) to explore the dashboard
