@@ -172,8 +172,8 @@ Contributions, suggestions, and improvements are welcome!
 
 If you have any questions or feedback:
 
-* GitHub: darshil6113
-* LinkedIn: 
+* GitHub: [darshil6113](https://github.com/darshil6113)
+* LinkedIn: [Darshil Gadara](https://www.linkedin.com/in/darshil-gadara-750b44224)
 
 ---
 
